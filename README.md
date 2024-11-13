@@ -13,6 +13,8 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essen
 ## 🚀 Resultados
 O vídeo é meu sobrinho e afilhado Rodolfinho fazendo uma rima pros primos dele, meus filhos.
 
+[LINK PARA O VÍDEO AQUI]()
+
 ## 💭 Reflexão (Opcional)
 A criação em si foi simples após os ensinamentos do Venilto da DIO, contudo por possuir limitadores devido as tecnologias utilizadas serem utilizadas as versões gratuitas, o vídeo ficou bem curto.
 ```
